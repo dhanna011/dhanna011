@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhanna Ram</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
+<h3 align="center">Tranee- Software Engineer .</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yvypw6krjc9ud8hu3q2axjvgt5jf9mg0o080jhkx&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanna011&label=Profile%20views&color=0e75b6&style=flat" alt="dhanna011" /> </p>
 
-- 📫 How to reach me **dhannaram1512@gmail.com**
+
 
 - ⚡ Fun fact **I'm funny 😎**
 
