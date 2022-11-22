@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanna R.</h1>
+<h1 align="center">Hi 👋, I'm Dhanna R. Beniwal</h1>
 <h3 align="center">Trainee- Software Developer </h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47yvypw6krjc9ud8hu3q2axjvgt5jf9mg0o080jhkx&rid=giphy.gif&ct=g">
